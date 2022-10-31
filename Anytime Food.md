@@ -1,6 +1,6 @@
 # Anytime Food
 
-I had my partner had to create a business and we chose for an aoo for our own foodtruck.
+I and my partner had to create a business and we chose for an aoo for our own foodtruck.
 
 ![Dogcation](https://user-images.githubusercontent.com/57445093/198982429-ef89c076-41fa-4f08-b923-433b01d4cc50.png)
 
