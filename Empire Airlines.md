@@ -6,5 +6,5 @@ I had to create everything from the name, slogan, icons and logo to the color sc
 
 For the full wireflow you can use the link under or go to Notion for an indept explanation.
 
-https://xd.adobe.com/view/b6b8cfd8-990e-44dc-a241-043ba3a801fd-e3eb/
-https://blushing-dry-9d8.notion.site/3e1ae91bf3644927bb81528e1b6f6c0a?v=a56c3cf1c0d44042b96f112135fb1594
+Wireframes: https://xd.adobe.com/view/b6b8cfd8-990e-44dc-a241-043ba3a801fd-e3eb/
+Notion: https://blushing-dry-9d8.notion.site/3e1ae91bf3644927bb81528e1b6f6c0a?v=a56c3cf1c0d44042b96f112135fb1594
