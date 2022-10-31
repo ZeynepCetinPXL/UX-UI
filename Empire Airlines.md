@@ -1,6 +1,6 @@
 # Empire Airlines
 
-I had to create everything from the name, slogan, icons and logo to the color scheme.
+Me had to create everything from the name, slogan, icons and logo to the color scheme.
 
 ![Empire Airlines](https://user-images.githubusercontent.com/57445093/198977344-d2e1500e-43f8-47e4-97a3-17b41f08e359.png)
 
