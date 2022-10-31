@@ -1,4 +1,4 @@
-# Empire Airlines
+# Dogcation
 
 I had my partner had to create a business and we chose for a website where you can rent bed&breakfasts that allow dogs.
 
